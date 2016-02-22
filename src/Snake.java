@@ -11,5 +11,4 @@ public class Snake extends Reptile {
         System.out.println("Sssss");
     }
 
-
 }
